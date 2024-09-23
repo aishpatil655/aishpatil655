@@ -14,6 +14,8 @@
 
 These projects demonstrate my prowess in AI and ML applications.
 
+✍️ Side note: I’ve been making hand-written notes on every step of the data science lifecycle. They’re still a work in progress, kind of like a "beta version" of a data nerd's journal. Not groundbreaking yet, but I keep adding content—like a personal Wikipedia that doesn’t let you down at 2 a.m.! If you're curious, feel free to check them out here: [Data Science Notes: ](https://github.com/aishpatil655/Data-Science-Notes)
+
 🌐 Actively engaged in the data science community, contributing knowledge to foster a collaborative learning environment.
 
 🤝 **Let's Connect**  
